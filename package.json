@@ -1,0 +1,14 @@
+{
+  "name": "nodewebsocket-server",
+  "version": "1.0.0",
+  "description": "Random web-socket data generator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Suman",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.0.0"
+  }
+}
